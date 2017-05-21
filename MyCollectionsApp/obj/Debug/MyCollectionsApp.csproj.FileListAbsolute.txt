@@ -1,0 +1,10 @@
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe.config
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.pdb
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csprojResolveAssemblyReference.cache
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Form1.resources
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Properties.Resources.resources
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csproj.GenerateResource.Cache
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.exe
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.pdb
+c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.InfoDialog.InfoDialog.resources
