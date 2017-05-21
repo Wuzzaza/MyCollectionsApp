@@ -8,3 +8,13 @@ c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollecti
 c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.exe
 c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.pdb
 c:\users\guest\documents\visual studio 2015\Projects\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.InfoDialog.InfoDialog.resources
+E:\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe.config
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.exe
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.pdb
+E:\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe
+E:\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.pdb
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csprojResolveAssemblyReference.cache
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Form1.resources
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.InfoDialog.InfoDialog.resources
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Properties.Resources.resources
+E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csproj.GenerateResource.Cache

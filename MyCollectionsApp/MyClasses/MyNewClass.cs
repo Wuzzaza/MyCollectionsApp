@@ -18,14 +18,14 @@ namespace MyCollectionsApp
 
         public MyNewClass(string name, string description) {
             this.name = name;
-            this.description = description;
+            this.description = "";
         }
 
         public override string ToString()
         {
 
 
-            return name + " : " + description + "color : " + Enum.GetName(typeof (Colors), color);
+            return name + ". Description: " + description + ". Color : " + Enum.GetName(typeof (Colors), color);
         }
     }
 
