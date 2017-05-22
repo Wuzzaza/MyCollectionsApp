@@ -40,9 +40,9 @@ namespace MyCollectionsApp
             this.nameFilterTextBox = new System.Windows.Forms.TextBox();
             this.descriptionFilterTextBox = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.listBox1 = new MyCollectionsApp.RefreshingListBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.listBox1 = new MyCollectionsApp.RefreshingListBox();
             this.SuspendLayout();
             // 
             // button1
@@ -123,15 +123,6 @@ namespace MyCollectionsApp
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 5;
             // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(13, 13);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(323, 485);
-            this.listBox1.TabIndex = 0;
-            this.listBox1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseDoubleClick);
-            // 
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(415, 142);
@@ -152,8 +143,18 @@ namespace MyCollectionsApp
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(13, 13);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(323, 485);
+            this.listBox1.TabIndex = 0;
+            this.listBox1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseDoubleClick);
+            // 
             // Form1
             // 
+            this.AccessibleRole = System.Windows.Forms.AccessibleRole.Sound;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 561);
@@ -171,7 +172,7 @@ namespace MyCollectionsApp
             this.Controls.Add(this.listBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "LINQ Example";
             this.ResumeLayout(false);
             this.PerformLayout();
 

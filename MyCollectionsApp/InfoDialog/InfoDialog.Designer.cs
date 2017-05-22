@@ -41,9 +41,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(28, 13);
+            this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Text";
+            this.label1.Text = "Name";
             // 
             // label2
             // 
@@ -101,7 +101,7 @@
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "InfoDialog";
-            this.Text = "Form1";
+            this.Text = "Item Property";
             this.ResumeLayout(false);
             this.PerformLayout();
 

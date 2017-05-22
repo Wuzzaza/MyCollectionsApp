@@ -18,3 +18,13 @@ E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Form1.resour
 E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.InfoDialog.InfoDialog.resources
 E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Properties.Resources.resources
 E:\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csproj.GenerateResource.Cache
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe.config
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.exe
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.pdb
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.exe
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\bin\Debug\MyCollectionsApp.pdb
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csprojResolveAssemblyReference.cache
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Form1.resources
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.InfoDialog.InfoDialog.resources
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.Properties.Resources.resources
+D:\Docs\GIT\MyCollectionsApp\MyCollectionsApp\obj\Debug\MyCollectionsApp.csproj.GenerateResource.Cache
